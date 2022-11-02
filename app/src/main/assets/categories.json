@@ -1,0 +1,44 @@
+{
+  "data" : [
+    {
+      "category_id": "12",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "13",
+      "category_display_name": "Laptop",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "14",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "15",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "16",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "17",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "18",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    },
+    {
+      "category_id": "19",
+      "category_display_name": "Mobile",
+      "isactive" : "true"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomLintRulesAndroid</string>
+    <string name="sample_text">This is sample text at position %d</string>
+    <string name="call_categories">Call Categories</string>
+    <string name="call_categories_remote">Call Categories Remote</string>
+</resources>
