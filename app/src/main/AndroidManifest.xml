@@ -16,7 +16,7 @@
         tools:targetApi="m">
 
         <activity
-            android:name="com.android.customlintrulesandroid.ui.MainActivity"
+            android:name="com.android.customlintrulesandroid.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
