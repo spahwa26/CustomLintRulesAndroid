@@ -1,0 +1,3 @@
+rootProject.name = "CustomLintRulesAndroid"
+include ':app'
+include ':AndroidLintRulees'
